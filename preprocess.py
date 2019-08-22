@@ -8,4 +8,4 @@ def string_to_analogy(s):
 
 if __name__ == '__main__':
     print("Preprocessing available")
-    string_to_analogy("after:regrets::before:_,thresholds prologues misgivings memories pitfalls,misgivings")
+    #string_to_analogy("after:regrets::before:_,thresholds prologues misgivings memories pitfalls,misgivings")
